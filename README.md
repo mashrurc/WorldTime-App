@@ -1,2 +1,2 @@
 # WorldTime-App
-Demo App using Flutter. Contains different pages and animations.
+Demo App created using Flutter. Contains different pages and animations.
